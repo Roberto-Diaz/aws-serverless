@@ -1,2 +1,4 @@
 hello-word/node_modules
 password-strength/node_modules
+express-dynamodb/node_modules
+express-dynamodb/.dynamodb
